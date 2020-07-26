@@ -46,3 +46,9 @@ Active projects for the 0xBitcoin Community. Please add more with an Issue.
 11. [0xBTC Block Explorer](http://explorer.0xbtc.io)  (active)
 
       A dedicated block explorer and API engine for 0xBitcoin
+      
+12. [Awesome 0xBitcoin](https://github.com/0xBrian/awesome-0xbitcoin/blob/master/README.md)  (active)
+
+      A repo for all things 0xBitcoin
+      
+12. https://github.com/0xBrian/awesome-0xbitcoin/blob/master/README.md
